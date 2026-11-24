@@ -1,4 +1,4 @@
-\# Cosine Similarity and Cosine Distance in Python
+# Cosine Similarity and Cosine Distance in Python
 
 
 
@@ -6,7 +6,7 @@ This Jupyter notebook explains cosine similarity and cosine distance using simpl
 
 
 
-\## What the notebook covers
+## What the notebook covers
 
 
 
@@ -20,7 +20,7 @@ This Jupyter notebook explains cosine similarity and cosine distance using simpl
 
 
 
-\## Run locally
+## Run locally
 
 
 
